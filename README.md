@@ -16,6 +16,52 @@
 
 ⚙️ Backend: https://event-ticket-booking-system-8h0w.onrender.com
 
+## 🧪 Quick Test Access
+
+To make evaluation easier, a demo account is available:
+
+### Demo Credentials
+
+**Email:** demo@gmail.com
+
+**Password:** demo123
+
+Alternatively, reviewers can create a new account using the Register page.
+
+---
+
+## 🎯 Suggested Testing Flow
+
+1. Login using the demo account
+2. Navigate to **Events**
+3. Select an event
+4. Choose one or more available seats
+5. Click **Reserve Seats**
+6. Observe the 10-minute reservation timer
+7. Click **Confirm Booking**
+8. Verify the seats are marked as booked
+9. Navigate to **My Bookings** to view booking history
+10. Logout
+
+---
+
+## 📌 Sample Events Available
+
+* Coldplay Live Mumbai
+* Vishal Mishra Concert
+* Tech Conference Bangalore
+
+These events are pre-seeded in the database for testing purposes.
+
+---
+
+## ⚠️ Notes for Reviewers
+
+* Seat reservations expire automatically after 10 minutes.
+* Booked seats cannot be reserved again.
+* Reserved seats are temporarily locked until booking or expiry.
+* Authentication is required to access booking-related features.
+
 
 ---
 
