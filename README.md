@@ -12,11 +12,10 @@
 
 ## 🚀 Live Demo
 
-🌐 Frontend: `Add Vercel Link Here`
+🌐 Frontend: https://event-ticket-booking-system-chi.vercel.app/login
 
-⚙️ Backend: `Add Render Link Here`
+⚙️ Backend: https://event-ticket-booking-system-8h0w.onrender.com
 
-🎥 Demo Video: `Add Google Drive / Loom Link Here`
 
 ---
 
